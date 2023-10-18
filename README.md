@@ -8,8 +8,8 @@ That is funny! 😂
 
 ```
 {
-  "firstName:": "Bayley",
+  "firstName": "Bayley",
   "lastName": "Horton",
-  "age:": 25
+  "age": 25
 }
 ```
